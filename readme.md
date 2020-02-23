@@ -14,3 +14,6 @@ By Having the ability to do research on platforms like Google,YouTube, MDN docs,
 * How to understand and use string interpolation
 * How to understand and use DOM Manipulation
 * How to navigate through a large block of JSON data
+
+
+![Esty Page Screen Shot](etsy.png)
